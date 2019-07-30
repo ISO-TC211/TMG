@@ -6,5 +6,5 @@ For more information, please refer to:
 
 The ISO/TC 211 Multi-Lingual Glossary of Terms (MLGT) - English terms from published TC211 standards and translations from National Body members is available for download on the https://committee.iso.org/sites/tc211/home/re.html[ISO/TC 211 Resources] page
 
-The new, online version of the Multi-Lingual Glossary of Terms (MLGT) is available at https://www.geolexica.com[Geolexica]
+The new, online version of the Multi-Lingual Glossary of Terms (MLGT) is available at https://www.geolexica.org[Geolexica]
 
