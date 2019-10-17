@@ -1,4 +1,4 @@
-= Repository for ISO/TC 211 Terminology Maintenance Group (TMG)
+= ISO/TC 211 Terminology Maintenance Group (TMG)
 
 == Information about the TMG
 
