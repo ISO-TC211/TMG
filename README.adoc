@@ -4,7 +4,10 @@ For more information, please refer to:
 
 * https://committee.iso.org/sites/tc211/home/about/advisory-groups.html[ISO/TC Advisory Groups]
 
-The ISO/TC 211 Multi-Lingual Glossary of Terms (MLGT) - English terms from published TC211 standards and translations from National Body members is available for download on the https://committee.iso.org/sites/tc211/home/re.html[ISO/TC 211 Resources] page
+The ISO/TC 211 Multi-Lingual Glossary of Terms (MLGT) - English terms from published TC211 standards and translations from National Body members is available for download:
+
+20191016 Edition:
+* https://github.com/ISO-TC211/TMG/blob/master/TC211_Multi-Lingual_Glossary_20191016_Published.zip
 
 The new, online version of the Multi-Lingual Glossary of Terms (MLGT) is available at https://www.geolexica.org[Geolexica]
 
