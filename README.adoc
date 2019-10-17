@@ -4,8 +4,10 @@ For more information, please refer to:
 
 * https://committee.iso.org/sites/tc211/home/about/advisory-groups.html[ISO/TC Advisory Groups]
 
-The ISO/TC 211 Multi-Lingual Glossary of Terms (MLGT) - English terms from published TC211 standards and translations from National Body members is available for download:
+The ISO/TC 211 Multi-Lingual Glossary of Terms (MLGT) has been compiled from International Standards developed by ISO/TC 211. The glossary contains all English terms from published TC211 standards and thousands of translations submitted by National Body members. The purpose of the Glossary is to encourage consistency in the use and interpretation of geospatial terms. It is being made freely available to all interested people and organizations.
 
-* https://github.com/ISO-TC211/TMG/raw/master/TC211_Multi-Lingual_Glossary_20191016_Published.zip[20191016 Edition ISO/TC211 Multi-Lingual Glossary of Terms (MLGT)]
+The MLGT is available in two formats: 
 
-The new, online version of the Multi-Lingual Glossary of Terms (MLGT) is available at https://www.geolexica.org[Geolexica]
+* Original Microsoft Excel version: https://github.com/ISO-TC211/TMG/raw/master/TC211_Multi-Lingual_Glossary_20191016_Published.zip[20191016 Edition ISO/TC211 Multi-Lingual Glossary of Terms (MLGT)]
+
+* The newly developed, online edition of the Multi-Lingual Glossary of Terms (MLGT) is available at https://www.geolexica.org[Geolexica]
