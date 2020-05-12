@@ -11,6 +11,6 @@ The ISO/TC 211 Multi-Lingual Glossary of Terms (MLGT) has been compiled from Int
 
 The MLGT is available in two formats: 
 
-* Original Microsoft Excel version: https://github.com/ISO-TC211/TMG/releases[20191016 Edition ISO/TC211 Multi-Lingual Glossary of Terms (MLGT)]
+* Original Microsoft Excel version: https://github.com/ISO-TC211/TMG/releases[20200427 Edition ISO/TC211 Multi-Lingual Glossary of Terms (MLGT)]
 
 * The newly developed, online edition of the Multi-Lingual Glossary of Terms (MLGT) is available at https://www.geolexica.org[Geolexica]
