@@ -13,6 +13,6 @@ The current release of the MLGT is Release 6 - 2024-06-21
 
 The MLGT is available in two formats: 
 
-* The current (Release 6) online edition of the Multi-Lingual Glossary of Terms (MLGT) is available at https://www.geolexica.org[Geolexica]
+* The online edition of the current release of the Multi-Lingual Glossary of Terms (MLGT) is available at https://www.geolexica.org[Geolexica]
 
-* Microsoft Excel Spreadsheet: This is only approved translation efforts by NBs, liaison, etc. These are not publicaly available. 
+* Microsoft Excel Spreadsheet: Available for approved translation efforts by NBs, liaison, etc. These are not publicly available. Contact the AG7 Convenor
