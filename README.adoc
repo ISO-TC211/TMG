@@ -9,8 +9,10 @@ The TMG maintains the ISO/TC 211 terminology repository, assists project teams a
 == Multi-Lingual Glossary of Terms
 The ISO/TC 211 Multi-Lingual Glossary of Terms (MLGT) has been compiled from International Standards developed by ISO/TC 211. The glossary contains all English terms from published TC211 standards and thousands of translations submitted by National Body members. The purpose of the MLGT is to encourage consistency in the use and interpretation of geospatial terms. It is being made freely available to all interested people and organizations.
 
+The current release of the MLGT is Release 6 - 2024-06-21
+
 The MLGT is available in two formats: 
 
-* Original Microsoft Excel version: https://github.com/ISO-TC211/TMG/releases[2020602 Edition ISO/TC211 Multi-Lingual Glossary of Terms (MLGT)]
+* The current (Release 6) online edition of the Multi-Lingual Glossary of Terms (MLGT) is available at https://www.geolexica.org[Geolexica]
 
-* The newly developed, online edition of the Multi-Lingual Glossary of Terms (MLGT) is available at https://www.geolexica.org[Geolexica]
+* Microsoft Excel Spreadsheet: This is only approved translation efforts by NBs, liaison, etc. These are not publicaly available. 
